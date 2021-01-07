@@ -1,6 +1,6 @@
 # MediMaint Case Study
 
-This case study was designed by Mike Wolfe of [Grandjean & Braverman, Inc.](https://grandjean.net/) as his main applicant screening tool.  I found it to be the most engaging and interesting job application I've submitted to date.
+This case study was designed by Mike Wolfe of [Grandjean & Braverman, Inc.](https://grandjean.net/) as his primary job applicant screening tool.  I found it to be the most engaging and interesting job application I've submitted to date.  The documents in this folder demonstrate my approach to solving a broad, open-ended problem.
 
 # Docs
 
